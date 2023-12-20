@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data_Images</folder>
+	<filename>knife.58922008-7fd2-11ee-9863-a683e7398f45.jpg</filename>
+	<path>C:\Users\15149\Desktop\Object Detection\objd\Dataset\Data_Images\knife.58922008-7fd2-11ee-9863-a683e7398f45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>1</ymin>
+			<xmax>469</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

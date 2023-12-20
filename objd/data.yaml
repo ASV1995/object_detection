@@ -1,0 +1,8 @@
+train: Data_Images/Train
+val: Data_Images/Test
+NC: 4
+names: ['spoon',
+'fork',
+'knife',
+'glasses'
+]
